@@ -1,6 +1,8 @@
 # week-7-Aqi of Inida 
 Air Quality Data (Tableau) 
 
+# Link - https://public.tableau.com/shared/62R52N5MW?:display_count=n&:origin=viz_share_link
+
 Context
 Since industrialization, there has been an increasing concern about environmental pollution. As mentioned in the WHO report 7 million premature deaths annually are linked to air pollution, air pollution is the world's largest single environmental risk. Moreover as reported in the NY Times article, India’s Air Pollution Rivals China’s as World’s Deadliest it has been found that India's air pollution is deadlier than China's.
 You can explore India’s air pollution levels more granularly using this dataset.
